@@ -17,11 +17,13 @@ https://github.com/fminamot/pc-setup/
 ```
 sudo -i
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
-sudo yum localinstall google-chrome-stable_current_x86_64.rpm
+sudo dnf localinstall google-chrome-stable_current_x86_64.rpm -y
 ```
-
+* Chromeアイコンをクリック
+* Chromeを既定のブラウザーに設定
+  
 ## flatpakインストール
-
+* Chromeで flatpak.org を開く
 
 ## EPub readerインストール
 
