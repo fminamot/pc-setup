@@ -8,7 +8,7 @@
 * サードバーティリポジトリ有効
 * ユーザーとして、student/student を設定
 
-## Fedoraのディレクトリを英語に変更
+## Fedoraのディレクトリを英語に変更（オプション）
 ```
 LANG=C xdg-user-dirs-gtk-update
 ```
