@@ -19,13 +19,19 @@ sudo -i
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 sudo dnf localinstall google-chrome-stable_current_x86_64.rpm -y
 ```
+* Chromeアイコンをダッシュボードにピン止め
 * Chromeアイコンをクリック
 * Chromeを既定のブラウザーに設定
-  
-## flatpakインストール
-* Chromeで flatpak.org を開く
+
+## ROLアクセス
+* Chromeで rol.redhat.com にアクセス
 
 ## EPub readerインストール
+* ターミナルで以下を実行
+```
+flatpak install foliate
+```
+* Foliateアイコンをダッシュボードにピン止め
 
 
 
