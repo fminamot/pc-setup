@@ -10,7 +10,7 @@
 
 ## Fedoraのディレクトリを英語に変更
 ```
-$ LANG=C xdg-user-dirs-gtk-update
+LANG=C xdg-user-dirs-gtk-update
 ```
 
 ## WiFi設定
