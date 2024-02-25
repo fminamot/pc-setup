@@ -34,12 +34,19 @@ sudo dnf localinstall google-chrome-stable_current_x86_64.rpm -y
 ## ROLアクセス
 * Chromeで rol.redhat.com にアクセス
 
-## EPub readerインストール
+## Foliateインストール
 * ターミナルで以下を実行
 ```
 flatpak install foliate
 ```
 * Foliateアイコンをダッシュボードにピン止め
+
+## EPubが読めることを確認
+* Foliateでepubファイルを開く
+
+## Foliateの調整
+* 設定 > Font&Layout Setting > Layout > Page > Maximum Page Number を1に設定
+* 設定 > Scrolled mode にチェック
 
 
 
