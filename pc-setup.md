@@ -12,6 +12,8 @@
 ```
 LANG=C xdg-user-dirs-gtk-update
 ```
+* Don't ask me again にチェック
+* [Update Names]を押す
 
 ## WiFi設定
 
