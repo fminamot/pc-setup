@@ -6,7 +6,12 @@
 
 ## Fedoraセットアップ開始
 * サードバーティリポジトリ有効
-** user:student/student
+* ユーザーとして、student/student を設定
+
+## Fedoraのディレクトリを英語に変更
+```
+$ LANG=C xdg-user-dirs-gtk-update
+```
 
 ## WiFi設定
 
