@@ -10,9 +10,15 @@ user:student/student
 
 ## WiFi設定
 
+## Firefoxでこのメモを開く
+https://github.com/fminamot/pc-setup/
+
 ## Chromeインストール
+```
+sudo -i
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 sudo yum localinstall google-chrome-stable_current_x86_64.rpm
+```
 
 ## flatpakインストール
 
